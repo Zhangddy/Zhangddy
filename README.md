@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zhangddy
 - 👀 I’m interested in LOL
-- 🌱 I work at Tencent
-- 💞️ I love u
+- 💞️ I love everything~
 - 📫 How to reach me: extern@foxmail.com
 
 <!---
